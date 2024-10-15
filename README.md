@@ -1,10 +1,9 @@
 # Springboot - JPA
 
-This is a simple project whose main topic is JPA relationships.
+This is a simple project whose main topic is creaitng a kind of real world CRUD.
 
-JPA allow us to access ddbb via ORM, which let us decide how to select data, being able to choose sql, jpql or OOP thanks to, for example, hibernate.
 
-This is a simple console application as a showcase of the features that Spring JPA bring us.
+This is a simple web mvc application as a showcase of the features that usually confomrs an api REST.
 
 ## FYI
 
