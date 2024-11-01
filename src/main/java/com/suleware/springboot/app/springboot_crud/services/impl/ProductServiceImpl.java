@@ -1,4 +1,4 @@
-package com.suleware.springboot.app.springboot_crud.services;
+package com.suleware.springboot.app.springboot_crud.services.impl;
 
 import java.util.List;
 import java.util.Optional;
@@ -8,6 +8,7 @@ import org.springframework.transaction.annotation.Transactional;
 
 import com.suleware.springboot.app.springboot_crud.entities.Product;
 import com.suleware.springboot.app.springboot_crud.repositories.ProductRepository;
+import com.suleware.springboot.app.springboot_crud.services.ProductService;
 
 @Service
 public class ProductServiceImpl implements ProductService {
